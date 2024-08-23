@@ -63,3 +63,6 @@ Follow these steps to set up the project locally:
    ```shell
    pip install -r requirements.txt
    ```
+
+### Acknowledgments
+Special thanks to the open-source community for their contributions to the development of YOLO and the various Python libraries that make projects like this possible.
